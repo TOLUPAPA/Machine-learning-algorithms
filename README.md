@@ -1,2 +1,3 @@
 # Machine-learning-algorithms
-just a simple overview of how linear regression works
+just a simple overview to how some machine learning algorithms work
+
